@@ -1,0 +1,2 @@
+# PeaceTS
+Official TeamSpeak Server
